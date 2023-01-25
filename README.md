@@ -5,7 +5,7 @@ determined needed quantity and complete the whole online shopping cycle,
 can add/remove products to/from Wishlist , can filter and sort products through price , brand , offers, distance and production date ,
 can see all details of product , 
 can search for special tire through size or brand or vehicle for it , can compare this result with another brand,
-can connect with technical support of app for any problem througth send message
+can connect with technical support of app for any problem through send message
 and can see all notification seen or not seen.
 
 
